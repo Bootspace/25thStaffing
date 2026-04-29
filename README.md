@@ -84,7 +84,7 @@ curl -X POST http://localhost:3000/candidates \
 ```
 
 ### `GET /candidates`
-List all candidates.
+List all candidates...
 
 ### `GET /candidates/:id`
 Get a single candidate by ID.
